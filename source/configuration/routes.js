@@ -5,7 +5,7 @@ const routes = {
 	enabled: {
 		index: {
 			enabled: true,
-			path: '/'
+			path: ['/', '/tvg-ui'],
 		},
 		meta: {
 			enabled: true,
